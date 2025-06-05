@@ -447,7 +447,7 @@
             }
 
             .about-image img{
-            max-width: 300px;
+            max-width: 250px;
             }
         } 
 
@@ -837,6 +837,7 @@
 
             .about-text {
                 order: 2;
+                font-size: 12px;
             }
 
             .about-image {
